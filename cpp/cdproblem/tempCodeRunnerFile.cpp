@@ -1,0 +1,1 @@
+        // for(int i = 0; i < N + M; ++i) if(both[i]) count++;

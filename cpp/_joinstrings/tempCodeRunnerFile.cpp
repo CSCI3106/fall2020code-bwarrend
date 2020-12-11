@@ -1,0 +1,1 @@
+words[a] = words[b] = "";
